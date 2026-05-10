@@ -31,6 +31,7 @@
 [/cl1-cdn.origin-apple.com.akadns.net/]218.85.152.99 218.85.157.99
 [/cl1.apple.com/]218.85.152.99 218.85.157.99
 [/cl2-cn.apple.com/]218.85.152.99 218.85.157.99
+[/cl2.apple.com.edgekey.net.globalredir.akadns.net/]218.85.152.99 218.85.157.99
 [/cl2.apple.com/]218.85.152.99 218.85.157.99
 [/cl3-cdn.origin-apple.com.akadns.net/]218.85.152.99 218.85.157.99
 [/cl3.apple.com/]218.85.152.99 218.85.157.99
@@ -56,6 +57,7 @@
 [/gs-loc-cn.apple.com/]218.85.152.99 218.85.157.99
 [/gs-loc.apple.com/]218.85.152.99 218.85.157.99
 [/gsp10-ssl-cn.ls.apple.com/]218.85.152.99 218.85.157.99
+[/gsp11-cn.ls.apple.com/]218.85.152.99 218.85.157.99
 [/gsp12-cn.ls.apple.com/]218.85.152.99 218.85.157.99
 [/gsp13-cn.ls.apple.com/]218.85.152.99 218.85.157.99
 [/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]218.85.152.99 218.85.157.99
@@ -74,8 +76,6 @@
 [/guzzoni.apple.com/]218.85.152.99 218.85.157.99
 [/guzzoni.smoot.apple.com/]218.85.152.99 218.85.157.99
 [/iadsdk.apple.com/]218.85.152.99 218.85.157.99
-[/icloud-cdn.icloud.com.akadns.net/]218.85.152.99 218.85.157.99
-[/icloud.cdn-apple.com/]218.85.152.99 218.85.157.99
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]218.85.152.99 218.85.157.99
 [/init-kt.apple.com/]218.85.152.99 218.85.157.99
 [/init-p01md-lb.push-apple.com.akadns.net/]218.85.152.99 218.85.157.99
@@ -108,20 +108,16 @@
 [/mesu.apple.com/]218.85.152.99 218.85.157.99
 [/ml.cdn-apple.com/]218.85.152.99 218.85.157.99
 [/music.apple.com/]218.85.152.99 218.85.157.99
-[/ocsp-lb.apple.com.akadns.net/]218.85.152.99 218.85.157.99
 [/ocsp.apple.com/]218.85.152.99 218.85.157.99
-[/ocsp2-lb.apple.com.akadns.net/]218.85.152.99 218.85.157.99
 [/ocsp2.apple.com/]218.85.152.99 218.85.157.99
 [/oscdn.apple.com/]218.85.152.99 218.85.157.99
 [/oscdn.origin-apple.com.akadns.net/]218.85.152.99 218.85.157.99
 [/osxapps.itunes.g.aaplimg.com/]218.85.152.99 218.85.157.99
 [/pancake.apple.com/]218.85.152.99 218.85.157.99
-[/pancake.cdn-apple.com.akadns.net/]218.85.152.99 218.85.157.99
 [/pba0.apple.com/]218.85.152.99 218.85.157.99
 [/probe.siri.apple.com/]218.85.152.99 218.85.157.99
 [/prod-support.apple-support.akadns.net/]218.85.152.99 218.85.157.99
 [/publicassets.cdn-apple.com/]218.85.152.99 218.85.157.99
-[/reserve-prime.apple.com/]218.85.152.99 218.85.157.99
 [/s.mzstatic.com/]218.85.152.99 218.85.157.99
 [/seed-sequoia.siri.apple.com/]218.85.152.99 218.85.157.99
 [/seed-swallow.siri.apple.com/]218.85.152.99 218.85.157.99
