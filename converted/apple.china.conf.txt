@@ -103,6 +103,7 @@
 [/itunes-apple.com.akadns.net/]218.85.152.99 218.85.157.99
 [/itunes.apple.com/]218.85.152.99 218.85.157.99
 [/itunesconnect.apple.com/]218.85.152.99 218.85.157.99
+[/mensura.cdn-apple.com/]218.85.152.99 218.85.157.99
 [/mesu-cdn.apple.com.akadns.net/]218.85.152.99 218.85.157.99
 [/mesu-china.apple.com.akadns.net/]218.85.152.99 218.85.157.99
 [/mesu.apple.com/]218.85.152.99 218.85.157.99
