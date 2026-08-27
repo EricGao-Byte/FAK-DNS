@@ -64,6 +64,7 @@
 [/gsp4-cn.ls.apple.com/]218.85.152.99 218.85.157.99
 [/gsp5-cn.ls.apple.com/]218.85.152.99 218.85.157.99
 [/gsp85-cn-ssl.ls.apple.com/]218.85.152.99 218.85.157.99
+[/gspe11-2-cn-ssl.ls.apple.com/]218.85.152.99 218.85.157.99
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]218.85.152.99 218.85.157.99
 [/gspe19-2-cn-ssl.ls.apple.com/]218.85.152.99 218.85.157.99
 [/gspe19-cn-ssl.ls.apple.com/]218.85.152.99 218.85.157.99
